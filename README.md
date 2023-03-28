@@ -1,4 +1,11 @@
 # Portfolio - Dashboard Financeiro
 
-O objetivo deste projeto é apresentar meus conhecimentos em análise de dados utilizando Power BI para desenvolver um dashboard financeiro do AdventureWorks Data Warehouse
-O projeto será composto pelo arquivo .pbix em modo Import e um registro de atividades em notebook do jupyter.
+O objetivo deste projeto é apresentar meus conhecimentos em análise de dados utilizando Power BI e Python para desenvolver um dashboard financeiro do AdventureWorks Data Warehouse
+
+O projeto é composto pelo arquivo .pbix em modo Import e um jupyter notebook que concentra as transformações.
+
+A base de dados utilizada foi a versão 2019, que se encontra no seguinte link:
+https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms
+
+Não identifiquei um dicionário de dados oficial desta base, sendo assim, as transformações e cálculos foram realizados baseados em meu entendimento do que os dados significam.
+
