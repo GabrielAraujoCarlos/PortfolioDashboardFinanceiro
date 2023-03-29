@@ -9,3 +9,9 @@ https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?v
 
 Não identifiquei um dicionário de dados oficial desta base, sendo assim, as transformações e cálculos foram realizados baseados em meu entendimento do que os dados significam.
 
+Etapas Realizadas:
+  O backup da base de dados foi restaurado em uma instancia SQL Server em minha máquina
+  As tabelas selecionadas foram levadas ao jupyter notebook para tratamento das tabelas, como simplificação do modelo para estrela, alteração do modelo de hierarquia e exclusão de colunas
+  As tabelas transformadas foram gravadas em um novo banco
+  As tabelas do novo banco foram lidas no Power BI através do conector de SQL Server
+  Foram criadas medidas e gráficos
